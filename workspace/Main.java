@@ -1,4 +1,5 @@
 //Jonthan Kosuhan, pd 1, jan 14 2025
+//runs program, creats an array that will cycle though the differnt countries with the infomation. Also process the input by the user and tests if it matchs the right answer. Makes most of the UI system as well.
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
